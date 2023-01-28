@@ -5,6 +5,7 @@ A curated list of amazingly awesome midjourney AI free prompts for your projects
 
 * [MidJourney](https://www.midjourney.com/) - The best AI image generator (for me).
 * [Dall-E](https://openai.com/blog/dall-e/) - One of those who opened the new era of generating images from text.
+* Dream Studio [StableDiffusion](https://beta.dreamstudio.ai/home) - An Open Source that has revolutionized the world of generative AI in recent months.
 * [AI Free Images](http://aifreeimages.com/) - Free images with prompts. Recommend attribution.
 
 MidJourney Prompts
@@ -20,9 +21,10 @@ AI Twitter account you should follow
 I share with you twitter accounts (mainly in english) related to AI, MidJourney, ... In my Twitter account [@carrero](https://twitter.com/carrero) share prompts and other related AI contents in english and spanish.
 
 * Carlos Santana [@DotCVS](https://twitter.com/DotCSV)
-* Javi López [@javilopen](https://twitter.com/javilopen). In Spanish [@javilop](https://twitter.com/javilop)
-* LevelSIO [@levelsio](https://twitter.com/levelsio). Create AvatarAI, InteriorAI, ...
+* Javi López [@javilopen](https://twitter.com/javilopen) - In Spanish [@javilop](https://twitter.com/javilop)
+* LevelSIO [@levelsio](https://twitter.com/levelsio) - He created AvatarAI, InteriorAI, ...
 * Linus (●ᴗ●) [@LinusEkenstam](https://twitter.com/LinusEkenstam)
+* fofrAI [@fofrAI](https://twitter.com/fofrAI) - Experiments using AI.
 
 Contributing
 ------------
