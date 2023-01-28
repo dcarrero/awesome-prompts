@@ -13,6 +13,9 @@ MidJourney Prompts
 
 I share with you some midjourney prompts so you can create your own images. Some with midjourney user reference.
 
+* @BrandonMc /imagine Portrait, Bioluminescent Mandalorian, designed by Frazetta::3 Moebius::1 Klimt::2 bright liquid watercolor ink with golden bioluminescent oil veins, backlit --ar 2:3  --v 4 [Image midjourney](https://cdn.midjourney.com/9ca4d5a0-0fc6-4b2d-91b9-64ed46e905ad/grid_0.png) <br/><img src="https://cdn.midjourney.com/9ca4d5a0-0fc6-4b2d-91b9-64ed46e905ad/grid_0.png">
+* @colorvivo /imagine imagine [Image midjourney](https://cdn.discordapp.com/attachments/1051615845471752202/1068879826926190632/colorvivo_imagine_44f393e0-1191-4d47-804c-6ad231574fd1.png) <br/><img src="https://cdn.discordapp.com/attachments/1051615845471752202/1068879826926190632/colorvivo_imagine_44f393e0-1191-4d47-804c-6ad231574fd1.png" 
+alt="imagine" width="20%" title="imagine">
 * @colorvivo /imagine tiny elephant [twitter](https://twitter.com/carrero/status/1619032605210595329)
 * @Freizeit /imagine Cuddle time, --ar 2:3  --uplight  --v 4 [Image midjourney](https://cdn.midjourney.com/93490b02-7743-4307-8b13-9f42d5157c36/grid_0.png) <br/><img src="https://cdn.midjourney.com/93490b02-7743-4307-8b13-9f42d5157c36/grid_0.png" 
 alt="Cuddle time" width="20%" title="Cuddle time">
@@ -23,6 +26,7 @@ AI Twitter account you should follow
 
 I share with you twitter accounts (mainly in english) related to AI, MidJourney, ... In my Twitter account [@carrero](https://twitter.com/carrero) share prompts and other related AI contents in english and spanish.
 
+* Stelfie the Time Traveller [@StelfieTT](https://twitter.com/StelfieTT) - A parody of life and history powered by AI, He time travel and He take stelfies.
 * Carlos Santana [@DotCVS](https://twitter.com/DotCSV)
 * Javi López [@javilopen](https://twitter.com/javilopen) - In Spanish [@javilop](https://twitter.com/javilop)
 * LevelSIO [@levelsio](https://twitter.com/levelsio) - He created AvatarAI, InteriorAI, ...
