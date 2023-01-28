@@ -10,7 +10,7 @@ Table of Contents
   * [MidJourney Prompts](#midjourney-prompts)
   * [AI Twitter account you should follow](#ai-twitter-account-you-should-follow)
   * [Contributing](#contributing)
-  * [ToDo](#todo)v
+  * [ToDo](#todo)
 
 AI Tools and related
 --------------------
@@ -18,6 +18,7 @@ AI Tools and related
 * [MidJourney](https://www.midjourney.com/) - The best AI image generator (for me).
 * [Dall-E](https://openai.com/blog/dall-e/) - One of those who opened the new era of generating images from text.
 * Dream Studio [StableDiffusion](https://beta.dreamstudio.ai/home) - An Open Source that has revolutionized the world of generative AI in recent months.
+* [Mage.Space](https://www.mage.space) - Mage: Free, Fast, Unfiltered Stable Diffusion. Generate Anything You Can Imagine. Yes Anything! Using state-of-the-art A.I., effortlessly generate images no one has ever seen.
 * [AI Free Images](http://aifreeimages.com/) - Free images with prompts. Recommend attribution.
 
 MidJourney Prompts
