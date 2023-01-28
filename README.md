@@ -13,7 +13,7 @@ MidJourney Prompts
 
 I share with you some midjourney prompts so you can create your own images. Some with midjourney user reference.
 
-* @BrandonMc /imagine Portrait, Bioluminescent Mandalorian, designed by Frazetta::3 Moebius::1 Klimt::2 bright liquid watercolor ink with golden bioluminescent oil veins, backlit --ar 2:3  --v 4 [Image midjourney](https://cdn.midjourney.com/9ca4d5a0-0fc6-4b2d-91b9-64ed46e905ad/grid_0.png) <br/><img src="https://cdn.midjourney.com/9ca4d5a0-0fc6-4b2d-91b9-64ed46e905ad/grid_0.png">
+* @BrandonMc /imagine Portrait, Bioluminescent Mandalorian, designed by Frazetta::3 Moebius::1 Klimt::2 bright liquid watercolor ink with golden bioluminescent oil veins, backlit --ar 2:3  --v 4 [Image midjourney](https://cdn.midjourney.com/9ca4d5a0-0fc6-4b2d-91b9-64ed46e905ad/grid_0.png) <br/><img src="https://cdn.midjourney.com/9ca4d5a0-0fc6-4b2d-91b9-64ed46e905ad/grid_0.png"  width="20%">
 * @colorvivo /imagine imagine [Image midjourney](https://cdn.discordapp.com/attachments/1051615845471752202/1068879826926190632/colorvivo_imagine_44f393e0-1191-4d47-804c-6ad231574fd1.png) <br/><img src="https://cdn.discordapp.com/attachments/1051615845471752202/1068879826926190632/colorvivo_imagine_44f393e0-1191-4d47-804c-6ad231574fd1.png" 
 alt="imagine" width="20%" title="imagine">
 * @colorvivo /imagine tiny elephant [twitter](https://twitter.com/carrero/status/1619032605210595329)
