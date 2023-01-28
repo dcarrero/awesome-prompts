@@ -3,6 +3,18 @@ Awesome midjourney AI prompts
 
 A curated list of amazingly awesome midjourney AI free prompts for your projects. Inspired by all the other [awesome awesomeness](https://github.com/bayandin/awesome-awesomeness) out there.
 
+Table of Contents
+=================
+
+  * [AI Tools and related](#ai-tools-and-related)
+  * [MidJourney Prompts](#midjourney-prompts)
+  * [AI Twitter account you should follow](#ai-twitter-account-you-should-follow)
+  * [Contributing](#contributing)
+  * [ToDo](#todo)v
+
+AI Tools and related
+--------------------
+
 * [MidJourney](https://www.midjourney.com/) - The best AI image generator (for me).
 * [Dall-E](https://openai.com/blog/dall-e/) - One of those who opened the new era of generating images from text.
 * Dream Studio [StableDiffusion](https://beta.dreamstudio.ai/home) - An Open Source that has revolutionized the world of generative AI in recent months.
