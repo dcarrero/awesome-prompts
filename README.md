@@ -20,6 +20,8 @@ AI Tools and related
 * Dream Studio [StableDiffusion](https://beta.dreamstudio.ai/home) - An Open Source that has revolutionized the world of generative AI in recent months.
 * [Mage.Space](https://www.mage.space) - Mage: Free, Fast, Unfiltered Stable Diffusion. Generate Anything You Can Imagine. Yes Anything! Using state-of-the-art A.I., effortlessly generate images no one has ever seen.
 * [AI Free Images](http://aifreeimages.com/) - Free images with prompts. Recommend attribution.
+* [Luma AI](https://lumalabs.ai) - Text to 3D.
+* [Hugging Face](https://huggingface.co) - The AI community building the future.
 
 MidJourney Prompts
 ------------------
