@@ -11,9 +11,12 @@ A curated list of amazingly awesome midjourney AI free prompts for your projects
 MidJourney Prompts
 ------------------
 
-I share with you some midjourney prompts so you can create your own images.
+I share with you some midjourney prompts so you can create your own images. Some with midjourney user reference.
 
-* /imagine tiny elephant [twitter](https://twitter.com/carrero/status/1619032605210595329)
+* @colorvivo /imagine tiny elephant [twitter](https://twitter.com/carrero/status/1619032605210595329)
+* @Freizeit /imagine Cuddle time, --ar 2:3  --uplight  --v 4 [Image midjourney](https://cdn.midjourney.com/93490b02-7743-4307-8b13-9f42d5157c36/grid_0.png) <br/><img src="https://cdn.midjourney.com/93490b02-7743-4307-8b13-9f42d5157c36/grid_0.png" 
+alt="Cuddle time" width="20%" title="Cuddle time">
+* @Godly /imagine Night landscape, View from sky, Rank 1 in National Geographic + Award-winning concept art, a highly detailed storm over french alps, glowing bioluminescent ponds, glowing flowers, windy and cristal clear air, amazing landscape, chiaroscuro, hyperrealism, luminism, by Darek Zabrocki and Joseph McGurl and Bierstadt, hd, very detailed, 4k, 8k --ar 2:3 [Image midjourney](https://cdn.midjourney.com/591fafe9-3899-47e2-b6fe-df814e43787f/grid_0.png)
 
 AI Twitter account you should follow
 ------------------------------------
